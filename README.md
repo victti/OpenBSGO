@@ -17,9 +17,6 @@ This is a BSGO server emulator of a Massive Multiplayer Online game known as Bat
 
 ## Why and what was fixed/improved?
 This is something that people might wonder, why rewrite instead of fix what was broken? Answer is simple: I was not satisfied with the old project. It has broken stuff I couldn't fix or in order to fix I'd have to remove too much essential stuff that would break more things. Rewritting is the easiest way. So, what was improved?
-- QoL Features were added.
- - This can be disabled on the server configuration file.
- - These were made to improve the game's life from the server side, since we cannot touch the original game files.
 - Collisions were added.
   - The last version didn't have a collision, but the closed source rewrite I made back when BSGOPS existed had collisions. The old collision system was improved so much that now it has little to none impact on CPU time. Recent tests showed that the old collision system could handle 1000 objects before start lagging, and the new collision system can handle 100000 objects and not even start lagging yet.
 - Shop items were added.

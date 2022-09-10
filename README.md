@@ -28,9 +28,8 @@ This is something that people might wonder, why rewrite instead of fix what was 
   - They now keep spawned on the sector after jump/dock. (Bugfix)
   - Combat modules were added.
     - They can now target and kill you.
-  - A QoL feature was added:
-    - Upgraded OP have a passive computers to buff allies damage.
-    - Fortified OP have a passive computer to buff allies armor.
+    - Upgraded OP have a passive computers to buff allies damage. (QoL)
+    - Fortified OP have a passive computer to buff allies armor. (QoL)
 - All ships are playable.
 - Buff and Debuffs were added. (Partially)
 - AI was added.

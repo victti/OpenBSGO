@@ -30,28 +30,28 @@ This is something that people might wonder, why rewrite instead of fix what was 
   - Sector Levels were added.
   - They now keep spawned on the sector after jump/dock. (Bugfix)
   - Combat modules were added.
-   - They can now target and kill you.
-   - A QoL feature was added. (QoL)
+    - They can now target and kill you.
+  - A QoL feature was added:
     - Upgraded OP have a passive computers to buff allies damage.
     - Fortified OP have a passive computer to buff allies armor.
 - All ships are playable.
 - Buff and Debuffs were added. (Partially)
 - AI was added.
- - OP targetting system is considered an AI.
-  - It decides which target is the best to shoot at depending on distance, health and ship tier.
- - A dumb AI was also added. The "dumb" is because all the AI does is turn to the target direction every X seconds. This is the behavior AI had on BSGO.
- - 2 new AIs will be added in the future:
-  - Smart AI:
-   - These bots will have better equipment.
-   - They will better use their weapons.
-  - Player like AI:
-   - These bots will have player like equipment.
-   - They (possibly) will use Neural Networking.
+  - OP targetting system is considered an AI.
+    - It decides which target is the best to shoot at depending on distance, health and ship tier.
+  - A dumb AI was also added. The "dumb" is because all the AI does is turn to the target direction every X seconds. This is the behavior AI had on BSGO.
+  - 2 new AIs will be added in the future:
+    - Smart AI:
+      - These bots will have better equipment.
+      - They will better use their weapons.
+    - Player like AI:
+      - These bots will have player like equipment.
+      - They (possibly) will use Neural Networking.
 - Sector bounds was added.
- - Now reaching the sector bounds will trigger radiation.
+  - Now reaching the sector bounds will trigger radiation.
 - Radiation Zones (QoL)
- - Now when nukes explodes, they leave behind a radiation zone for a few seconds.
- - Random radiation zones with better loot can be found on sectors close to the Nebula.
+  - Now when nukes explodes, they leave behind a radiation zone for a few seconds.
+  - Random radiation zones with better loot can be found on sectors close to the Nebula.
 - Mining (WiP)
 
 ## Quality of Life (QoL)

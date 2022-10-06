@@ -1,4 +1,4 @@
-# BSGO Server Emulator
+# OpenBSGO
 
 #### None of the repo, the tool, nor the repo owner is affiliated with, or sponsored or authorized by, BigPoint or its affiliates.
 ##### This server is for learning more about C# and Networking. I am not responsible for other people's Forks.
@@ -8,7 +8,7 @@
 ###### This repo has little to none code from BigPoint. Although you are required to have the original game files in order to run the server, since the server uses the game's dll for essential run code.
 
 ## About
-This is a BSGO server emulator of a Massive Multiplayer Online game known as Battlestar Galactica Online that was created by BigPoint. It's an emulation of the original server, that tries to bring back the original essence of the game. It is written in C# (.NET Core 6.0) and uses SQLite to save the player data. It still is in its initial stages so bugs and missing protocols are expected when using it.
+OpenBSGO is an open source server emulator of the Massive Multiplayer Online game known as Battlestar Galactica Online that was created by BigPoint. It's an emulation of the original server, that tries to bring back the original essence of the game. It is written in C# (.NET Core 6.0) and uses SQLite to save the player data. It still is in its initial stages so bugs and missing protocols are expected when using it.
 
 ## Features
 - Supported version:

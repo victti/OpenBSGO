@@ -48,7 +48,10 @@ This is something that people might wonder, why rewrite instead of fix what was 
 - Radiation Zones (QoL)
   - Now when nukes explodes, they leave behind a radiation zone for a few seconds.
   - Random radiation zones with better loot can be found on sectors close to the Nebula.
-- Mining (WiP)
+- Mining
+  - Asteroids now can contain resources.
+  - Planetoids now can contain resources.
+    - Miningship can be requested to gather resources from it.
 
 ## Quality of Life (QoL)
 These features are totally optional on the server and can be disabled with a simple change on the server config file. They are meant to improve the game's life from the server side, since we can't touch the original game files. Be aware that the changes listed above that are marked as (QoL) are not final and might be changed any time in the future.

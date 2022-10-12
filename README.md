@@ -59,6 +59,11 @@ These features are totally optional on the server and can be disabled with a sim
 ## Screenshots
 ###### TBD
 
+## Requirements
+- BSGO game files (yes, you are required to own a copy of the game in order to run the server).
+- .Net Core 6.0
+- TBD
+
 ## Usage
 ###### TBD
 

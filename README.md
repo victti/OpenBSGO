@@ -11,8 +11,18 @@
 OpenBSGO is an open source server emulator of the Massive Multiplayer Online game known as Battlestar Galactica Online that was created by BigPoint. It's an emulation of the original server, that tries to bring back the original essence of the game. It is written in C# (.NET Core 6.0) and uses SQLite to save the player data. It still is in its initial stages so bugs and missing protocols are expected when using it.
 
 ## Features
-- Supported version:
+- Supported versions:
   - Latest released by BigPoint. I'm not sure if it works for other versions.
+- Full character creation. Select your side and jump right into the game.
+- Rooms:
+  - 242/Alpha Ceti and all other sectors have their Stationary ships that you can dock on.
+  - You can buy ships, customize it with different stickers and names, buy and upgrade equipments, repair your ship and play the Dradis Contact (Only the loot part of it, the recover and play maps for better loot are yet to be done).
+  - You can interact with the NPCs to sell water and talk about other stuff.
+- Every spaceship has its collider, so you can bounce around while colliding with other ships, or die crashing into asteroids.
+- You can now scan and mine asteroids to get the resources you need to progress.
+- Level up skills to get stronger and upgrade your items to higher levels.
+- Kill NPCs, visit other sectors, scan asteroids, mine resources and more to have a Title below your nickname.
+
 ###### TBD
 
 ## Why and what was fixed/improved?

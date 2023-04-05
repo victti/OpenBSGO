@@ -86,3 +86,4 @@ These features are totally optional on the server and can be disabled with a sim
 - <a href="https://github.com/SebLague">Sebastian Lague</a> (For Raycasting implementation).
 - <a href="https://gamedev.stackexchange.com/users/7514/joel">Joel</a> (For the OBJ loader).
 - <a href="https://github.com/stonkpunk">stonkpunk</a> (For Triangle-Triangle Intersection).
+- <a href="https://realtimecollisiondetection.net/blog/?author=1">christer</a> (For Sphere-Triangle Intersection).
